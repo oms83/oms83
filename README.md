@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 <body style="font-family: 'Cascadia Code', monospace;">
 
 <div class="profile-header" style="display: flex; align-items: center;">
@@ -10,9 +16,8 @@
 </div>
 
 <div class="social-links" style="margin-bottom: 20px;">
-  <a href="https://twitter.com/oms9159"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="Twitter" style="margin-right: 10px; width: 30px; height: 30px;"></a>
-  <a href="https://www.linkedin.com/in/%C3%B6mer-memes-3a7300245/"><img src="https://img.shields.io/badge/linkedin-23017785?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px; width: 30px; height: 30px;"></a>
-  <a href="https://www.youtube.com/@oms9159"><img src="https://img.shields.io/badge/youtube-23FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" style="margin-right: 10px; width: 30px; height: 30px;"></a>
+  <a href="https://www.linkedin.com/in/%C3%B6mer-memes-3a7300245/"><img src="https://img.shields.io/badge/linkedin-23017785?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px; width: 60px; height: 30px;"></a>
+  <a href="https://www.youtube.com/@oms9159"><img src="https://img.shields.io/badge/youtube-23FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" style="margin-right: 10px; width:60px; height: 30px;"></a>
 </div>
 
 <div class="skills" style="margin-bottom: 20px;">
@@ -27,3 +32,4 @@
 </div>
 
 </body>
+</html>
