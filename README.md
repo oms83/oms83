@@ -1,35 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body style="font-family: 'Cascadia Code', monospace;">
+<h1 align="center">Hi 👋, I'm Ömer MEMES</h1>
+<h3 align="center">I am a software engineering student</h3>
 
-<div class="profile-header" style="display: flex; align-items: center;">
-  <h1 class="profile-name" style="font-weight: bold; margin-right: 10px;">Ömer MEMES</h1>
-  <img src="https://avatars.githubusercontent.com/u/109181440?s=400&u=7249648bbaf7bc3a2a89a7da917c19b12c598c5a&v=4" alt="Profile Photo" class="profile-photo" style="border-radius: 50%; margin-right: 10px;" width="50" height="50">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oms83&label=Profile%20views&color=0e75b6&style=flat" alt="oms83" /> </p>
 
-<div class="description" style="margin-bottom: 20px;">
-  <p>Hi, I am <strong>Ömer MEMES</strong>. I am a student of Software Engineering.</p>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/omermemes83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omermemes83" height="30" width="40" /></a>
+<a href="https://instagram.com/omer_memes_83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer_memes_83" height="30" width="40" /></a>
+<a href="https://medium.com/@omermemes83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omermemes83" height="30" width="40" /></a>
+</p>
 
-<div class="social-links" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/%C3%B6mer-memes-3a7300245/"><img src="https://img.shields.io/badge/linkedin-23017785?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px; width: 60px; height: 30px;"></a>
-  <a href="https://www.youtube.com/@oms9159"><img src="https://img.shields.io/badge/youtube-23FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" style="margin-right: 10px; width:60px; height: 30px;"></a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<div class="skills" style="margin-bottom: 20px;">
-  <h3>Skills:</h3>
-  <ul>
-    <li>C++</li>
-    <li>C</li>
-    <li>C#</li>
-    <li>N-tier Architecture</li>
-    <li>Databases</li>
-  </ul>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oms83&show_icons=true&locale=en&layout=compact" alt="oms83" /></p>
 
-</body>
-</html>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oms83&show_icons=true&locale=en" alt="oms83" /></p>
